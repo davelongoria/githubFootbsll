@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_load_custom_logos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_load_custom_logos",
+  "parent":{
+    "name":"Palette",
+    "path":"folders/Objects/Palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

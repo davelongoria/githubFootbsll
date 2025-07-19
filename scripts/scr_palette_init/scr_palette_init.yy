@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_palette_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_palette_init",
+  "parent":{
+    "name":"Palette",
+    "path":"folders/Objects/Palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

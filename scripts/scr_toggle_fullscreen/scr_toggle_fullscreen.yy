@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_toggle_fullscreen",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_toggle_fullscreen",
+  "parent":{
+    "name":"Palette",
+    "path":"folders/Objects/Palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

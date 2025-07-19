@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_gamepad_was_pressed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_gamepad_was_pressed",
+  "parent":{
+    "name":"MenuSelect",
+    "path":"folders/Objects/Palette/MenuSelect.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

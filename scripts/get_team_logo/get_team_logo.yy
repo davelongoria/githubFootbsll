@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_team_logo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_team_logo",
+  "parent":{
+    "name":"Palette",
+    "path":"folders/Objects/Palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

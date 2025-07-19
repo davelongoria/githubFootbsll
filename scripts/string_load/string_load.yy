@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"string_load",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_load",
+  "parent":{
+    "name":"Palette",
+    "path":"folders/Objects/Palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

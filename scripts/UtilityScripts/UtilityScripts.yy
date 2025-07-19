@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"UtilityScripts",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"UtilityScripts",
+  "parent":{
+    "name":"MenuSelect",
+    "path":"folders/Objects/Palette/MenuSelect.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
